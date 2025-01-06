@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: #bf0b0b;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+    padding: 10px;
+    background-color: #0fd3d6;
+    border-radius: 4px;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Fiat {
+    width: 350px;
+    height: 300px;
+}
+
+table,tr,td {
+    border: 1px solid green;
+}
+
+.Bugatti {
+    width: 500px;
+    height: 300px;
+}
+
+p {
+   border: 5px solid green; 
+}
+
+.lamba {
+    width: 500px;
+    height: 300px;
+}
+
+footer {
+    border: 5px ridge blue;
+}
+
+img {
+    border: 10px solid teal; 
+}
+
+.bmw {
+    width: 450px;
+    height: 300px;
+}
